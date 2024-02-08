@@ -2,6 +2,7 @@
 
 # this is just to practice git
 
-echo "hello, Bosch i love being here"
+echo "hello bosch asasadadsadsas"
 echo "plus a new feature"
+echo "plus a new feature2"
 
