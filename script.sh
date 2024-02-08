@@ -2,4 +2,4 @@
 
 # this is just to practice git
 
-echo "hello, World"
+echo "hello, Bosch i love being here"
